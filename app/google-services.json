@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882514388431",
+    "project_id": "coffeecaffe2024",
+    "storage_bucket": "coffeecaffe2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882514388431:android:4aaa9ff95362bfcc459eba",
+        "android_client_info": {
+          "package_name": "com.example.cofeecafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnXD4AtvUZoiBbIUMjkvzaHToob04C6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CofeeCafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CoffeeDescription">Our premium blend coffee offers a perfect balance of rich, bold flavors and smooth texture. Carefully sourced from the finest Arabica beans, it delivers a deep, robust taste with hints of chocolate and caramel. Each cup is a harmonious experience of medium-dark roast, ensuring a full-bodied aroma that lingers with every sip. Whether enjoyed black or with your favorite cream and sugar, this coffee provides a satisfying pick-me-up for any time of the day. Ideal for those who appreciate a well-rounded and flavorful brew, it promises a delightful coffee experience from the first sip to the last drop.</string>
+    <string name="default_web_client_id" translatable="false"> 882514388431-q5m7usos15b4po67o2pni55bci6gtqen.apps.googleusercontent.com</string>
+    <string name="aboutappinfo">Welcome to Tom and Jerry Coffee Cafe, founded by Vishal Singh Samberwal. Our app and cafe are dedicated to providing you with the best beverages at affordable prices. Whether you\'re craving coffee, tea, or something refreshing, we aim to deliver quality drinks that satisfy both taste and budget. Our mission is to ensure every cup brings you joy, comfort, and value. With a wide selection of flavors and styles, we invite you to explore and enjoy a delightful experience with every order at Tom and Jerry Coffee Cafe. </string>
+    <string name="madewithlove">Made with ❤️ by Vishal Samberwal</string>
+</resources>
